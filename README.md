@@ -1,0 +1,1 @@
+This program uses published financial reports downloaded in xls format from ORESTAR.
